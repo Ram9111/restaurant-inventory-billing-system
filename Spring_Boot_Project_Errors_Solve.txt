@@ -1,0 +1,3 @@
+1)Code:- Repositry method name should be same as DTO field name User findByUserName(String userName); else error No property 'username' found for type 'User'; Did you mean 'userName'?
+2)Code :- If JWT Token is not match in API Request then it show 403 Forbidden Access to the resource is prohibited in postman 
+2)DB:- The Order can be mis arrange of table column if table is created by springBoot if you want arrange column according you so need to execute query manually by workbench 
